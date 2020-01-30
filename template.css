@@ -1,0 +1,9 @@
+body{
+    background-color: dodgerblue;
+    color: white;
+    margin:auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:500px;
+}

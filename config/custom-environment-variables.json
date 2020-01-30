@@ -1,0 +1,11 @@
+{
+    "sspa_jwtPrivateKey":"sspa_jwtPrivateKey",
+    "sspa_dbhost":"sspa_dbhost",
+    "sspa_dbuser":"sspa_dbuser",
+    "sspa_dbuserpassword":"sspa_dbuserpassword",
+    "sspa_database":"sspa_database",
+    "sspa_emailHost":"sspa_emailHost",
+    "sspa_emailHostPort":"sspa_emailHostPort",
+    "sspa_senderEmail":"sspa_senderEmail",
+    "sspa_senderEmailPassword":"sspa_senderEmailPassword"
+}

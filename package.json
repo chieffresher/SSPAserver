@@ -1,0 +1,26 @@
+{
+  "name": "sspa",
+  "version": "1.0.0",
+  "description": "software training site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines":{
+    "node":"10.15.0"
+  },
+  "author": "Mohammed Seidu",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.7.4",
+    "config": "^3.2.3",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "mysql": "^2.17.1",
+    "node-gyp": "^6.1.0",
+    "nodemailer": "^6.4.2",
+    "pug": "^2.0.4"
+  }
+}
